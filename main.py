@@ -30,7 +30,6 @@ from visualize          import (
 
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split, cross_val_score
-
 os.makedirs("outputs", exist_ok=True)
 DATA_PATH  = "tweets_dataset.csv"
 RANDOM_STATE = 42
