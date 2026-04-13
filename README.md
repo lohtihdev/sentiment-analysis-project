@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Pipeline 🚀
+Twitter Sentiment Analysis Pipeline 
 
 ![Sentiment Analysis Showcase](outputs/1_sentiment_distribution.png)
 
@@ -6,19 +6,19 @@ A comprehensive, end-to-end Machine Learning pipeline utilizing Natural Language
 
 This repository contains everything from custom dataset generation and advanced text preprocessing, to training a TF-IDF & Logistic Regression model. It culminates in a dynamic Web App dashboard built with Flask and styled with modern web technologies.
 
-## 🌟 Key Features
+## Key Features
 - **Data Preprocessing**: Custom pipelines utilizing intelligent tokenization, stopword removal, and lemmatization for pristine training data.
 - **Machine Learning Model**: Powered by a finely-tuned Logistic Regression algorithm and TF-IDF vectorization for high-accuracy predictions.
 - **Deep Analytics**: 8 custom analytics charts generated via Matplotlib & Seaborn tracking word clouds, sentiment distribution, text length correlation, and engagement tracking.
 - **Interactive Web Interface**: A sleek, user-friendly frontend dashboard (HTML/CSS + Flask) that evaluates text sentiment in real-time.
 
-## 🛠️ Technology Stack
+## Technology Stack
 - **Languages**: Python, HTML, CSS
 - **Machine Learning**: Scikit-Learn, NLTK, Pandas, Numpy
 - **Data Visualization**: Matplotlib, Seaborn, WordCloud
 - **Framework**: Flask (Web Server)
 
-## 📊 Analytics Highlights
+## Analytics Highlights
 Our training pipeline automatically exports performance metrics and deep-dive visuals directly into the `outputs/` directory.
 
 1. `1_sentiment_distribution.png` - Overall breakdown of class balance.
@@ -26,7 +26,7 @@ Our training pipeline automatically exports performance metrics and deep-dive vi
 3. `5_top_tfidf_features.png` - Discovers which keywords carry the most sentiment weight.
 4. `6_word_clouds.png` - Visual representation of popular phrases across emotions.
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### 1. Requirements
 Ensure you have Python 3.8+ installed. Install the required dependencies:
