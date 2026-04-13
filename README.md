@@ -1,5 +1,10 @@
 Twitter Sentiment Analysis Pipeline 
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Flask](https://img.shields.io/badge/Framework-Flask-green?logo=flask)
+![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikit-learn)
+![License](https://img.shields.io/badge/License-MIT-purple)
+
 ![Sentiment Analysis Showcase](outputs/1_sentiment_distribution.png)
 
 A comprehensive, end-to-end Machine Learning pipeline utilizing Natural Language Processing (NLP) to predict the sentiment of social media text. 
